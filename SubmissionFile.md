@@ -208,6 +208,8 @@ Your first mission is to break the authentication scheme. There are a number of 
 
 Please include a screenshot here of the hidden JavaScript:
 
+![hidden javascript](Images/challange_1.png)
+
 After completing the first challenge, you will be provided with an option to continue to the next challenge.
 
 #### Challenge #2
