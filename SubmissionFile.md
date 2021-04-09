@@ -222,6 +222,21 @@ Next, steal all of the credit card numbers from the database.
 
 Please include a screenshot here of all the credit card numbers from the database. 
 
+* Used **Tamper Data** to get access to the user value in the cookie section
+* Then used **CyberChef** to decode the user value.
+* Afterwards I encoded my own user value and injected into the copokie section back on **Tamper Data**
+
+![tamper data](Images/challange_2_step1.png)
+
+![cookie](Images/challange2_step2.png)
+
+![decode](Images/challange_2_step3.png)
+
+![encode](Images/challange_2_step4.png)
+
+![creditcards](Images/challange_2_completed.png)
+
+
 After completing the second challenge, you will be provided with an option to continue to the next challenge.
 
 
